@@ -1,4 +1,4 @@
 # gitlearn
 Learning git
 <br>
-Author - Sukant
+Author - Sukant Damija
